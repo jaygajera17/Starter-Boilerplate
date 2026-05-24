@@ -6,7 +6,7 @@ Starter setup for multiple stacks so you can start building faster. Each stack l
 
 | Name                             | Tech stack                                           |
 | -------------------------------- | ---------------------------------------------------- |
-| [Node-Auth](Node-Auth/README.md) | TypeScript, Node.js, Express, MongoDB, Redis ,OAuth2 |
+| [Node-Auth](Node-Auth) | TypeScript, Node.js, Express, MongoDB, Redis ,OAuth2 |
 
 ## Getting started
 
